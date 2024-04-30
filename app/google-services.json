@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792400974478",
+    "project_id": "delonghi-45d4d",
+    "storage_bucket": "delonghi-45d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792400974478:android:c6e0267a4b57fe960bafdf",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0euK6f7sssCm3hvSvpwjIIuViSuw0KaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
